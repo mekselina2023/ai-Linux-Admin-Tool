@@ -10,3 +10,4 @@ bash modules/disk.sh
 bash modules/analysis.sh
 bash modules/services.sh
 bash modules/healthscore.sh
+bash modules/smart-summary.sh
