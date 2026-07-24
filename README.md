@@ -47,6 +47,12 @@ No critical issues detected.
 - [ ] AI-style Recommendations
 - [ ] Root Cause Analysis
 
+### Version 1.3
+
+- [ ] Health Score
+- [ ] Root Cause Engine
+- [ ] HTML Reports
+
 ### Version 2.0
 - [ ] Zabbix Integration
 - [ ] Alert Analysis
