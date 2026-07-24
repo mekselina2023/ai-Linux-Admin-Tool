@@ -39,12 +39,11 @@ No critical issues detected.
 
 ## Upcoming Features
 
-- [ ] Zabbix API Integration
-- [ ] HTML Report Generation
-- [ ] Email Notifications
-- [ ] Infrastructure Health Dashboard
-- [ ] Azure OpenAI Integration
-- [ ] Web Interface
+- Zabbix API Integration
+- Alert Correlation
+- AI Incident Analysis
+- Infrastructure Dashboard
+- Azure OpenAI Integration
 
 
 
