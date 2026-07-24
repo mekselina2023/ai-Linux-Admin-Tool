@@ -11,3 +11,4 @@ bash modules/analysis.sh
 bash modules/services.sh
 bash modules/healthscore.sh
 bash modules/smart-summary.sh
+bash modules/top-processes.sh
