@@ -34,6 +34,15 @@ No critical issues detected.
 
 ## Roadmap
 
+## Upcoming Features
+
+- [ ] Zabbix API Integration
+- [ ] HTML Report Generation
+- [ ] Email Notifications
+- [ ] Infrastructure Health Dashboard
+- [ ] Azure OpenAI Integration
+- [ ] Web Interface
+
 ### Version 1.0
 - [x] CPU Monitoring
 - [x] Memory Monitoring
