@@ -10,10 +10,13 @@ AI Linux Admin Tool is a Bash-based system administration toolkit designed to he
 
 - CPU Monitoring
 - Memory Monitoring
-- Disk Usage Analysis
-- Service Health Checks
-- Security Auditing
-- Root Cause Recommendations
+- Disk Monitoring
+- Service Monitoring
+- Security Audit
+- Health Score Engine
+- Root Cause Analysis
+- HTML Health Reports
+
 
 ## Example Output
 
@@ -42,6 +45,8 @@ No critical issues detected.
 - [ ] Infrastructure Health Dashboard
 - [ ] Azure OpenAI Integration
 - [ ] Web Interface
+
+
 
 ### Version 1.0
 - [x] CPU Monitoring
