@@ -53,7 +53,6 @@ No critical issues detected.
 - [ ] Infrastructure Health Reports
 
 ## Technologies
-
 - Linux
 - Bash
 - Systemd
