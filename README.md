@@ -16,6 +16,10 @@ AI Linux Admin Tool is a Bash-based system administration toolkit designed to he
 - Health Score Engine
 - Root Cause Analysis
 - HTML Health Reports
+- Problem Fetching
+- Alert Analysis
+- Root Cause Recommendations
+- Health Monitoring Correlation
 
 
 ## Example Output
