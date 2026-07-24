@@ -4,4 +4,6 @@ echo "================================="
 echo " AI Linux Admin Tool"
 echo "================================="
 
-echo "System Health Check"
+bash modules/cpu.sh
+bash modules/memory.sh
+bash modules/disk.sh
